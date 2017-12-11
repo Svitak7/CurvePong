@@ -1,0 +1,167 @@
+
+sprites.pack.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerOneUI
+  rotate: false
+  xy: 260, 100
+  size: 34, 144
+  orig: 34, 144
+  offset: 0, 0
+  index: -1
+PlayerTwoUI
+  rotate: false
+  xy: 296, 100
+  size: 34, 144
+  orig: 34, 144
+  offset: 0, 0
+  index: -1
+background1
+  rotate: false
+  xy: 2, 100
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 376, 235
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 46, 55
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball3
+  rotate: false
+  xy: 332, 160
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball4
+  rotate: false
+  xy: 67, 89
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball5
+  rotate: false
+  xy: 376, 224
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball6
+  rotate: false
+  xy: 387, 235
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball7
+  rotate: false
+  xy: 46, 44
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ball8
+  rotate: false
+  xy: 332, 149
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ballHitHorizontal
+  rotate: false
+  xy: 332, 171
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+ballHitVertical
+  rotate: false
+  xy: 58, 85
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+button1
+  rotate: false
+  xy: 354, 224
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 24, 44
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+joystickUp2
+  rotate: false
+  xy: 2, 68
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+joystickdown1
+  rotate: false
+  xy: 332, 214
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+joystickup1
+  rotate: false
+  xy: 332, 214
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+joystickdown2
+  rotate: false
+  xy: 2, 36
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+paddleleft1
+  rotate: false
+  xy: 24, 66
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+paddleleft2
+  rotate: false
+  xy: 332, 180
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+paddleright1
+  rotate: false
+  xy: 2, 2
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+paddleright2
+  rotate: false
+  xy: 41, 66
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
